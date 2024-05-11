@@ -4,7 +4,7 @@ from io import BytesIO
 import base64
 import matplotlib.pyplot as plt
 import matplotlib
-matplotlib.use('Agg')
+matplotlib.use('Agg'
 
 app = Flask(__name__)
 
